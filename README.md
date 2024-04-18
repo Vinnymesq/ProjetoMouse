@@ -22,9 +22,6 @@ O ProjetoMouse é um exemplo prático de como controlar o cursor do mouse utiliz
 3. Compile o projeto e execute a aplicação de console.
 4. Siga as instruções apresentadas na tela para interagir com o controle de mouse.
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Se você deseja contribuir com melhorias, exemplos adicionais ou correções para este projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 ## 📝 Licença
 
